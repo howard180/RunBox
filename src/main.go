@@ -13,7 +13,7 @@ import (
 func main() {
 
 	config := dropbox.Config{
-		Token:    "C8mCXzvXFNAAAAAAAAABaQ9C82-fhkyosKdWMZR9t3ohpPrzu3OtUmjWcKd8w-qk",
+		Token:    "",
 		LogLevel: dropbox.LogInfo, // if needed, set the desired logging level. Default is off
 	}
 	/* 	dbx := users.New(config) */
